@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "nmae",
+      "email": "linnnnn@lll.ccc",
+      "phone": "324234234234",
+      "id": 1625086455499,
+      "fav": false
+    },
+    {
+      "name": "fun",
+      "email": "fun@email.com",
+      "phone": "342342342342",
+      "id": 1625929864810,
+      "fav": false
+    }
+  ]
+}
